@@ -1,8 +1,10 @@
 September 15, 2026
 
-<!-- notify 1/2 -->
-## Notification 1/2 · notify
-Round: Round 1
-To: benakins63@comcast.com, griffintennis@yahoo.com
-At: 2026-09-15 22:39:36
-Id: yVGTX9wW
+<!-- after round1 -->
+
+<!-- notify 2/2 -->
+## Notification 2/2 · notify
+Round: Round 2
+To: ctlee@swbell.net, james007usa@comcast.net
+At: 2026-09-15 22:40:15
+Id: FT3wo0aE
